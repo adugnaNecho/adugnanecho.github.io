@@ -11,10 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+	Master of Science in Computer Engineering,                              2007- 2010 E.C
+Ethiopian Institute of Technology-Mekelle,                              Mekelle University
+	Bachelor of Science in Computer Engineering,                         2001 – 2005 E.C
+      School of Engineering, dep’t of Information Technologies       Adama University
+	Preparatory school                                                   Debre Markos preparatory school
+	High school                                                Abereha weatsebha secondary school  
+	Elementary school                                                      Zimbtit Elementary school
+	Abnet school (church schools)                 In different areas of Mertule Mariam
 Work experience
 ======
 * Summer 2015: Research Assistant
